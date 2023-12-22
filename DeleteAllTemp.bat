@@ -1,0 +1,1 @@
+"C:\Users\Niwat\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" execute --file "C:\Workspace\UiPath\MyRobot\DeleteAllTemp\DeleteAllTemp.1.0.1.nupkg"
